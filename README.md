@@ -18,3 +18,4 @@
                     Data will be persisted by a SQL server hosted on a Azure VM.
                     The front end user interfaces are created using Blazor and connected to the .NET Core server application via a SignalR connection.
                 </p>
+                via
